@@ -17,17 +17,7 @@
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 # No toques nada de aquí para abajo, puedes dañarlo
